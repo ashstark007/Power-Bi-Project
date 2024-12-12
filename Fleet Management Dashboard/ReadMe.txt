@@ -6,3 +6,5 @@ Operational Efficiency: Reduces downtime and improves vehicle utilization.
 Cost Savings: Identifies cost-saving opportunities in fuel and maintenance.
 Enhanced Safety: Promotes safer driving habits through monitoring.
 Data-Driven Decisions: Empowers managers with actionable insights.
+
+Note: Provided all the files used in the analysis.
